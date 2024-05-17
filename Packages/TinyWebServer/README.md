@@ -42,7 +42,7 @@ Build And Run 怪好用的，但也不是长远之计，为了运行还要 Build
 
 1. 点击 ``Window->Package Manager`` 打开 Package Manager 窗口
 
-2. 将 `https://github.com/Bian-Sh/TinyWebServer.git/?path=TinyWebServer` 粘贴到 Package Manager 中（大小写敏感）
+2. 将 `https://github.com/Bian-Sh/TinyWebServer.git/?path=Packages/TinyWebServer` 粘贴到 Package Manager 中（大小写敏感）
 
 3. 想要支持从 git URL 安装，需要使用 Unity 2019.3.4f1 或更高版本
 
@@ -118,7 +118,7 @@ Now, with Tiny Web Server, you can run your applications anytime, anywhere!
 
 1. Open the Package Manager window by clicking ``Window->Package Manager``
 
-2. Paste `https://github.com/Bian-Sh/TinyWebServer.git/?path=TinyWebServer` into the Package Manager (case-sensitive)
+2. Paste `https://github.com/Bian-Sh/TinyWebServer.git/?path=Packages/TinyWebServer` into the Package Manager (case-sensitive)
 
 3. To support git URL installation, Unity 2019.3.4f1 or higher is required
 
