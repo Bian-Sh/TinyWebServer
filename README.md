@@ -16,9 +16,9 @@ Build And Run 怪好用的，但也不是长远之计，为了运行还要 Build
 
 # 预览
 
-| Running                             | Stoped                                |
-|:-----------------------------------:|:-------------------------------------:|
-| ![](./Documentation/images/Run.png) | ![](./Documentation/images/Close.png) |
+| Running                                                    | Stoped                                                       |
+|:----------------------------------------------------------:|:------------------------------------------------------------:|
+| ![](./Packages/TinyWebServer/Documentation/images/Run.png) | ![](./Packages/TinyWebServer/Documentation/images/Close.png) |
 
 # 特点
 
@@ -48,7 +48,7 @@ Build And Run 怪好用的，但也不是长远之计，为了运行还要 Build
 
 4. 在中国使用 git URL 安装的成功率较低，请自行选择其他安装方式。
 
-![](./Documentation/images/install.png) 
+![](./Packages/TinyWebServer/Documentation/images/install.png) 
 
 # 使用
 
@@ -76,13 +76,7 @@ Build And Run 怪好用的，但也不是长远之计，为了运行还要 Build
 
 遵循 MIT 开源协议
 
-
-
-
-
 <a id="english">[ Top ↑ ](#chinese)</a>
-
-
 
 # Tiny Web Server
 
@@ -98,9 +92,9 @@ Now, with Tiny Web Server, you can run your applications anytime, anywhere!
 
 # Preview
 
-| Running                             | Stopped                               |
-|:-----------------------------------:|:-------------------------------------:|
-| ![](./Documentation/images/Run.png) | ![](./Documentation/images/Close.png) |
+| Running                                                    | Stopped                                                      |
+|:----------------------------------------------------------:|:------------------------------------------------------------:|
+| ![](./Packages/TinyWebServer/Documentation/images/Run.png) | ![](./Packages/TinyWebServer/Documentation/images/Close.png) |
 
 # Features
 
@@ -130,7 +124,7 @@ Now, with Tiny Web Server, you can run your applications anytime, anywhere!
 
 4. Due to lower success rates of git URL installations in China, please consider alternative installation methods.
 
-![](./Documentation/images/install.png)
+![](./Packages/TinyWebServer/Documentation/images/install.png)
 
 # Usage
 

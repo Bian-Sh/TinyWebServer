@@ -76,13 +76,7 @@ Build And Run 怪好用的，但也不是长远之计，为了运行还要 Build
 
 遵循 MIT 开源协议
 
-
-
-
-
 <a id="english">[ Top ↑ ](#chinese)</a>
-
-
 
 # Tiny Web Server
 
